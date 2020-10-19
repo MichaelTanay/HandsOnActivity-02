@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\handsOn_02\bin\Debug\handsOn_02.exe.config
+C:\Users\Lenovo\source\repos\handsOn_02\bin\Debug\handsOn_02.exe
+C:\Users\Lenovo\source\repos\handsOn_02\bin\Debug\handsOn_02.pdb
+C:\Users\Lenovo\source\repos\handsOn_02\obj\Debug\handsOn_02.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\handsOn_02\obj\Debug\handsOn_02.Form1.resources
+C:\Users\Lenovo\source\repos\handsOn_02\obj\Debug\handsOn_02.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\handsOn_02\obj\Debug\handsOn_02.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\handsOn_02\obj\Debug\handsOn_02.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\handsOn_02\obj\Debug\handsOn_02.exe
+C:\Users\Lenovo\source\repos\handsOn_02\obj\Debug\handsOn_02.pdb
